@@ -60,6 +60,7 @@ public class PracticeSet {
     }
     @AfterClass
     public void teardown(){
+
         driver.quit();
     }
     /*
